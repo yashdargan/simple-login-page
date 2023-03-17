@@ -4,4 +4,4 @@ This project was to make simple login page
 
 ##look and feels
 
-![output](public/Screenshot from 2023-03-18 01-14-48.png)
+![output](https://github.com/yashdargan/simple-login-page/blob/main/public/Screenshot%20from%202023-03-18%2001-14-48.png)
