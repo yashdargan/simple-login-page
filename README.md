@@ -4,4 +4,4 @@ This project was to make simple login page
 
 ##look and feels
 
-![output]()
+![output](public/Screenshot from 2023-03-18 01-14-48.png)
