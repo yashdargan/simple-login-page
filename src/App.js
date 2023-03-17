@@ -1,13 +1,11 @@
 import Loginpage from './components/Loginpage';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
-    
-<div className='parent' >
-    <Loginpage />
+    <div className='parent' >
+      <Loginpage />
     </div>
-
   )
 }
 
