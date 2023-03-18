@@ -2,6 +2,6 @@
 
 This project was to make simple login page
 
-##look and feels
+## look and feels
 
 ![output](ss.png)
